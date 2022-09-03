@@ -2,7 +2,7 @@
 
 ## Author
 
-
+David Barnes
 
 ## Description
 
@@ -109,7 +109,8 @@ https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
 ## Outside Resources Used
 
-
+None
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
+None
